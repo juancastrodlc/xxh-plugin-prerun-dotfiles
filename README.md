@@ -21,7 +21,6 @@ Be carefully if you are using [non-hermetic environment](https://github.com/xxh/
 From xxh repo:
 ```bash
 xxh +I https://github.com/juancastrodlc/xxh-plugin-prerun-dotfiles
-# or from any Github repo: xxh +I https://github.com/xxh/xxh-plugin-prerun-dotfiles
 ```
 Connect:
 ```
